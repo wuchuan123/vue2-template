@@ -1,2 +1,6 @@
 # vue2-template2
-vue2 admin脚手架
+
+vue2 admin 脚手架
+
+tailwindcss 基本用法参考：
+https://juejin.cn/post/7200782261997338681
